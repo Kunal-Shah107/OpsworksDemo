@@ -1,2 +1,2 @@
-echo nl2br("AWS OpsWorks Demo \n acloudguy.in \r\n AWS Lab Series 2023.")
+AWS OpsWorks Demo by acloudguy.in!
 <?php php_info(); ?>
