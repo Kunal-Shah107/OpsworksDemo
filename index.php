@@ -1,3 +1,3 @@
-AWS OpsWorks Demo!
-acloudguy.in
+AWS OpsWorks Demo! \n
+acloudguy.in \n
 <?php php_info(); ?>
